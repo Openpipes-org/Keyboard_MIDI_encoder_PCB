@@ -1,1 +1,3 @@
-# Keyboard_MIDI_encoder_PCB
+# Keyboard MIDI encoder board
+
+:warning: Under construction
