@@ -2,4 +2,9 @@
 
 ![alt text](https://github.com/Openpipes-org/Keyboard_MIDI_encoder_PCB/blob/main/images/keyboard_midi_encoder.png)
 
+<hr>
+<a href="https://oshwlab.com/bonninr/Versatile-MIDI-encoder-and-light">OSHWLab project page</a>
+
+<hr>
+
 :warning: Under construction
